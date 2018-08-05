@@ -1,4 +1,4 @@
 # hello-world
 Para aprender.
 
-estoy aprendiendo asuar esto.
+estoy aprendiendo a usar esto.
